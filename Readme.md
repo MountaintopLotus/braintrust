@@ -1,1 +1,1 @@
-![](docs/images/hypnowerk.png)
+![](docs/images/hypnowerk_wordmark.png)
