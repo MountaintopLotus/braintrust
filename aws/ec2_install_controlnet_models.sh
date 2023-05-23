@@ -1,3 +1,6 @@
+# This installs all 14 CN1.1 models into the directory structure of https://github.com/AbdBarho/stable-diffusion-webui-docker
+# This does NOT install the CN extension itself
+
 # NOT inside the container, navigate to correct distination directory
 cd /home/ubuntu/brain_trust/stable-diffusion-webui-docker/data/ControlNet
 
