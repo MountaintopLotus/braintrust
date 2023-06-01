@@ -1,1 +1,1 @@
-![](public/images/hypnowerk_wordmark.png)
+![](public/images/braintrust_wordmark.png)
