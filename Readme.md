@@ -1,1 +1,5 @@
 ![](public/images/braintrust_wordmark.png)
+
+This is the repository of the BrainTrust Core platform. Specific
+applications packaged to run atop BrainTrust are
+[hosted in separate repositories](https://github.com/orgs/BrainTrustAI/repositories).
