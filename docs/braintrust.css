@@ -1,0 +1,116 @@
+body {
+    color: #c0c0c0;
+    font-family: sans-serif;
+    background-color: #66023c; /* #19b44a; */
+    background: rgb(10,0,6);
+    background: linear-gradient(0deg, rgba(10,0,6,1) 0%, rgba(102,2,60,1) 100%);
+}
+
+
+/* Header ---------------------- */
+
+.wordmarkContainerDiv {
+    text-align: center;
+    padding-top: 1.5em;
+   /*  border: 1px green solid; */
+}
+
+.taglineContainerDiv { 
+    text-align: center;
+    margin: 2em auto;
+    /* border: 1px red solid; */
+}
+
+
+/* Main content body */
+
+.qrContainerDiv {
+    text-align: center;
+    margin: 4em 0;
+    /* border: 1px green solid; */
+}
+
+.mainContent {
+    /* border: 1px red solid; */
+    padding: 0em 4em;
+}
+
+
+.nameAndDateContainerDiv {
+    text-align: center;
+   /*  border: 1px green solid; */
+}
+
+
+
+
+h2 {
+    font-size: 1.75em;
+}
+
+p {
+    font-size: 1.25em;
+}
+
+a {
+    color: gold; /* #07b51e;  #19b44a;  */
+    text-decoration: none;}
+
+a:visited {
+    color: darkorange; /* #a1bfaa;  #c3e6ce;  #91c7a2; */
+}
+
+.post_date {
+    margin-top:0.5em;
+}
+
+#centerImageContainer { 
+    text-align: center;
+    margin: 2em auto;
+    width: 50%;
+}
+#centerImageWrapper {
+    display: table;
+    margin: 0 auto;
+}
+
+
+/* Newsletter sign up ----------- */
+#newsletterContainerDiv { 
+    text-align: center;
+    margin: 3.5em auto;
+    width: 50%;
+}
+#newsletterBox {
+    background-color: #19b44a; /* #33bd5e;  */
+    display: table;
+    margin: 0 auto;
+    padding: 3em 0em 2em 0em;
+    filter: drop-shadow(5px 5px 0px black);
+}
+#newsletterWord {
+    padding-bottom: 0.75em;
+}
+
+.email, .email_input {
+    background-color: #f8f001;
+    border: 0px;
+    font-family: 'Press Start 2P', monospace;
+    margin-top: 1.25em;
+    padding: 0.75em;
+    width: 66%;
+    filter: drop-shadow(5px 5px 0px black);
+}         
+textarea:focus, input:focus{
+    outline: none;
+}
+
+
+.footer {
+    color: #606060;
+    font-size: small;
+    text-align: center;
+    isplay: block;
+}
+
+
