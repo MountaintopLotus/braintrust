@@ -5,3 +5,5 @@ applications packaged to run atop Stable Dock are
 [hosted in separate repositories](https://github.com/orgs/BrainTrustAI/repositories).
 
 For more information, see [the wiki](https://github.com/BrainTrustAI/stable_dock/wiki).
+
+![](docs/images/tagline_open_ai_on_aws.png)
