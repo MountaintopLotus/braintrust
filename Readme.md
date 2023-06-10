@@ -1,1 +1,1 @@
-![](public/images/braintrust_wordmark.png)
+![](docs/images/stable_dock_wordmark.png)
