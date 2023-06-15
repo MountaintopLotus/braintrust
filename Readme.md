@@ -3,22 +3,20 @@
 This is the main repository of the Open Stables project. 
 
 Open Stables is **open source ML infrastructure code** for cloud-deployed
-**Dockerized** services based on **Stable Diffusion**. 
-
-The main goal of this project is to enable folks to easily use Stable
-Diffusion inside their own private cloud accounts. For example AWS
-rents out A10G GPUs with 24 GB of VRAM, for about one dollar per
-hour. That is a spiffy GPU for running Stable Diffusion. Open Stables
-enables **private** experimentation with Stable Diffusion without
-purchasing a GPU.
-
-All Open Stables code is Apache-2.0 licensed. Some of the codebases
-that can be deployed via Open Stables code have different licenses.
-
-
+**Dockerized** services based on **Stable Diffusion**. The initial deploy
+environment is AWS, with more cloud provider deployment options to follow.
 
 ![](docs/images/tagline_open_ai_on_aws.png)
 
+The main goal of this project is to enable folks to easily use Stable
+Diffusion inside their own private cloud accounts. For example AWS
+rents out NVIDIA A10G GPUs with 24 GB of VRAM, for about one dollar per
+hour. That is a spiffy GPU for running Stable Diffusion. Open Stables
+enables **private** experimentation with Stable Diffusion, without
+the up-front cost of purchasing a high-end GPU.
+
+All Open Stables code is Apache-2.0 licensed. Some of the codebases
+that can be deployed via Open Stables code have different licenses.
 
 Currently the following popular Stable Diffusion based services have
 been made to work on Open Stables:
