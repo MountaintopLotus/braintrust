@@ -15,9 +15,6 @@ hour. That is a spiffy GPU for running Stable Diffusion. Open Stables
 enables **private** experimentation with Stable Diffusion, without
 the up-front cost of purchasing a high-end GPU.
 
-All Open Stables code is Apache-2.0 licensed. Some of the codebases
-that can be deployed via Open Stables code have different licenses.
-
 Currently the following popular Stable Diffusion based services have
 been made to work on Open Stables:
 - StableStudio
@@ -34,7 +31,7 @@ words, **Open Stables is open code for all the Stables.**
 
 The Open Stable architecture is very Docker centric. **Initial
 releases** of Open Stable are **targeted specifically for AWS.** The
-long term goal is to have Stable Dock run well on all the major cloud
+long term goal is to have Open Stables run well on all the major cloud
 providers, as well as stock Kubernetes on private metal data
 centers. The planned development roadmap is:
 1. Amazon
@@ -42,8 +39,11 @@ centers. The planned development roadmap is:
 3. Google
 4. Kubernetes more broadly
 
-Specific applications packaged to run atop Stable Dock are
-[hosted in separate repositories](https://github.com/orgs/BrainTrustAI/repositories).
+All Open Stables code is Apache-2.0 licensed. Some of the codebases
+that can be deployed via Open Stables code have different
+licenses. Specific applications packaged to run atop Open Stables are
+[hosted in separate
+repositories](https://github.com/orgs/BrainTrustAI/repositories).
 
 For more information, see [the wiki](https://github.com/BrainTrustAI/open_stables/wiki).
 
