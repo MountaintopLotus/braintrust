@@ -1,13 +1,10 @@
 ![](docs/images/open_stables_wordmark.png)
 
 Open Stables is **ML infrastructure code for Stable Diffusion** based
-services. The initial deploy environment is **AWS only**, with more cloud
+web services. The initial deploy environment is **AWS only**, with more cloud
 provider deployment options to follow. Open Stables is architectured
 for auto-scaling, **Dockerized** cloud-deployments. All Open Stables
 code is permissiviely open sourced.
-
-  
-![](docs/images/tagline_open_ai_on_aws.png)
 
 ## Goal
 
@@ -54,4 +51,6 @@ licenses. Specific applications packaged to run atop Open Stables are
 [hosted in separate repositories](https://github.com/orgs/BrainTrustAI/repositories).
 
 For more information, see [the wiki](https://github.com/BrainTrustAI/open_stables/wiki).
+  
+![](docs/images/tagline_open_ai_on_aws.png)
 
