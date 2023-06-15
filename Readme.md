@@ -10,10 +10,11 @@ code is permissiviely open sourced.
 
 The main goal of this project is to enable folks to easily use Stable
 Diffusion inside their own private cloud accounts. For example AWS
-rents out NVIDIA A10G GPUs with 24 GB of VRAM, for about one dollar per
-hour. That is a spiffy GPU for running Stable Diffusion. Open Stables
-enables **private** experimentation with Stable Diffusion, without
-the up-front cost of purchasing a high-end GPU.
+rents out NVIDIA A10G GPUs with 24 GB of VRAM, for about one dollar
+per hour. That is a spiffy GPU for running Stable Diffusion. **Open
+Stables enables** private experimentation with production qaulity
+Stable Diffusion infrastructure, without the up-front cost of
+purchasing a high-end GPU.
 
 ## Status
 Currently the following popular Stable Diffusion based services have
