@@ -1,10 +1,10 @@
 ![](docs/images/open_stables_wordmark.png)
 
-Open Stables is **ML infrastructure code** for cloud-deployed services
-based on **Stable Diffusion**. The initial deploy environment is AWS,
-with more cloud provider deployment options to follow. The
-architecture is **Docker** centric. All Open Stables code is
-permissiviely open sourced.
+Open Stables is **ML infrastructure code for Stable Diffusion** based
+services. The initial deploy environment is **AWS only**, with more cloud
+provider deployment options to follow. Open Stables is architectured
+for auto-scaling, **Dockerized** cloud-deployments. All Open Stables
+code is permissiviely open sourced.
 
   
 ![](docs/images/tagline_open_ai_on_aws.png)
