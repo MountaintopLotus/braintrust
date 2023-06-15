@@ -1,7 +1,5 @@
 ![](docs/images/open_stables_wordmark.png)
 
-This is the main repository of the Open Stables project. 
-
 Open Stables is **open source ML infrastructure code** for cloud-deployed
 **Dockerized** services based on **Stable Diffusion**. The initial deploy
 environment is AWS, with more cloud provider deployment options to follow.
@@ -46,11 +44,11 @@ centers. The planned development roadmap is:
 
 ## License
 
-All Open Stables code is Apache-2.0 licensed. Some of the codebases
-that can be deployed via Open Stables code have different
+This is the main repository of the Open Stables project. All Open
+Stables code is Apache-2.0 licensed. Some of the above listed
+codebases that can be deployed via Open Stables code have different
 licenses. Specific applications packaged to run atop Open Stables are
-[hosted in separate
-repositories](https://github.com/orgs/BrainTrustAI/repositories).
+[hosted in separate repositories](https://github.com/orgs/BrainTrustAI/repositories).
 
 For more information, see [the wiki](https://github.com/BrainTrustAI/open_stables/wiki).
 
